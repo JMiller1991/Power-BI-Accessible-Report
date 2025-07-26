@@ -20,9 +20,6 @@ Enhance accessibility features in a Power BI report using:
 ## 🔍 Case Study
 Adventure Works hired a visually impaired sales team member. This project enhances inclusivity in internal reporting to ensure all team members can consume data equitably.
 
-## 📷 Screenshots
-![Final Report Screenshot](screenshot.png)
-
 ## 🛠 Tools Used
 - Power BI Desktop
 - Microsoft Accessibility Best Practices
